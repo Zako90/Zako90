@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zako90
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Front End programming
+- 🌱 I’m currently learning Front End development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
